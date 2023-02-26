@@ -1,0 +1,12 @@
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\bin\Debug\ProjektPP.exe.config
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\bin\Debug\ProjektPP.exe
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\bin\Debug\ProjektPP.pdb
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.csproj.AssemblyReference.cache
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.Form1.resources
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.Properties.Resources.resources
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.csproj.GenerateResource.cache
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.csproj.CoreCompileInputs.cache
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.exe
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.pdb
+C:\Users\KSDOM\source\repos\ProjektPP\ProjektPP\obj\Debug\ProjektPP.Wykres.resources
